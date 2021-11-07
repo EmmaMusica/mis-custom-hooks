@@ -1,5 +1,3 @@
 # Notas
 
-Este repositorio contiene varios customHooks para ayudarme a mi y a quien le sirva.
-
-La idea es que yo no quiero volver a escribirlos.
+Custom hooks para quien le sirva. Todos hecho en clasesy de tareas
